@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Computational Biology
-- 🌱 I’m currently learning GWAS study
-- 👯 I’m looking to collaborate on PRS and MD simulation
-- 🤔 I’m looking for help with Microbiome study
+- 🔭 I’m currently working on Computational Biology and Data science
+- 🌱 I'm currently working on a Microbiome study
+- 👯 I’m looking to collaborate on Biophysics and Machine learning
+- 🤔 I’m looking for help with Spectroscopy and Structural Biology
 - 💬 Ask me about DNA sequencing
 [![@shafayetrahat's Holopin board](https://holopin.me/shafayetrahat)](https://holopin.io/@shafayetrahat)
 
