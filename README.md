@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on physics aware machine learning and AI in computational biology 
 - 🤔 I’m looking for help with Quantum Computing in Computational Biolgy
 - 💬 Ask me about DNA sequencing
-- 📫 How to reach me: You can commit in this page!!!
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I lived in Finland. In finnish my last name translate to "Money".    
      ***I can literlly say "Money is my last name.!!!***"
