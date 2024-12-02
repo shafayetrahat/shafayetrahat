@@ -8,7 +8,7 @@
 - 📫 How to reach me: You can commit in this page!!!
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I lived in Finland. In finnish my last name translate to "Money".    
-     Thus, I can literlly say "Money is my last name.!!!"
+     ***I can literlly say "Money is my last name.!!!***"
 
 [![@shafayetrahat's Holopin board](https://holopin.me/shafayetrahat)](https://holopin.io/@shafayetrahat)
 
