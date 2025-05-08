@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Biophysics and Data Science
-- 🌱 I'm currently working on a Microbiome study
-- 👯 I’m looking to collaborate on physics aware machine learning and AI in computational biology 
-- 🤔 I’m looking for help with Quantum Computing in Computational Biolgy
+- 🌱 I'm currently working on a drug delivery
+- 👯 I’m looking to collaborate on machine learning and AI in computational biology 
+- 🤔 I’m looking for help with Quantum Computing in Computational Biology
 - 💬 Ask me about DNA sequencing
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I lived in Finland. In finnish my last name translate to "Money".    
-     ***I can literlly say "Money is my last name.!!!***"
 
 [![@shafayetrahat's Holopin board](https://holopin.me/shafayetrahat)](https://holopin.io/@shafayetrahat)
 
