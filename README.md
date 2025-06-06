@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Biophysics and Data Science
-- 🌱 I'm currently working on a drug delivery
+- 🌱 I'm currently working on a drug design
 - 👯 I’m looking to collaborate on machine learning and AI in computational biology 
-- 🤔 I’m looking for help with Quantum Computing in Computational Biology
+- 🤔 I’m looking for help with Quantum Computing
 - 💬 Ask me about DNA/RNA sequencing
 - 😄 Pronouns: He/Him 
 
