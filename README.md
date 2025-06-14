@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying Biophysics and Data Science
-- 🌱 I'm currently working on a drug design
+- 🌱 I'm currently working on improving the drug screening method
 - 👯 I’m looking to collaborate on machine learning and AI in computational biology 
 - 🤔 I’m looking for help with Quantum Computing
 - 💬 Ask me about DNA/RNA sequencing
